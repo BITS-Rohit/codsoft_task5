@@ -1,4 +1,4 @@
-package CodeSoftTasks;
+// package CodeSoftTasks;
 
 import java.util.ArrayList;
 import java.util.Scanner;
